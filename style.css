@@ -1,0 +1,72 @@
+body{
+    background-image: url(./images/Xaj7O5.png);
+}
+.header{
+    display: inline-flex;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+div>ul{
+    list-style: none;
+    display: inline-flex;
+    margin-left: 240px;
+}
+div li{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+div a{
+    color: white;
+    color: #ffffff;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+#section{
+    display: inline-flex;
+    margin-left: 350px;
+    margin-top: 100px;
+}
+div>h1{
+    color: white;
+    margin-top: 50px;
+}
+#text{
+    color: #eeeeee;
+    color: #ffffff;
+    color: rgb(255, 255, 255);
+}
+#re{
+    background-color: yellowgreen;
+    color: #9ACD32;
+    color: rgb(154, 205, 50);
+    border-radius: 10px;
+    color: white;
+    width: 100px;
+    height: 30px;    
+}
+.signup{
+    border: 2px;
+    width: 300px;
+    background-color: white;
+    height: 310px;
+    margin-left: 40px;
+    box-shadow: 15px 15px 15px 15px rgba(68, 68, 68, 0.6);;
+}
+#sign{
+    text-align: center;
+    color: #707070;
+}
+input{
+  margin-left: 30px;
+  background-color: #eeeeee;
+  border: none;
+  height: 30px;
+}
+.reg-button{
+    background-color: royalblue;
+    border-radius: 10px;
+    width: 220px;
+    height: 30px;
+    color: white;
+    margin-left: 38px;
+}
